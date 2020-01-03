@@ -1,0 +1,10 @@
+D:\Srouce\test\fileReadWrite\bin\Debug\fileReadWrite.exe.config
+D:\Srouce\test\fileReadWrite\bin\Debug\fileReadWrite.exe
+D:\Srouce\test\fileReadWrite\bin\Debug\fileReadWrite.pdb
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.csprojAssemblyReference.cache
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.Form1.resources
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.Properties.Resources.resources
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.csproj.GenerateResource.cache
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.csproj.CoreCompileInputs.cache
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.exe
+D:\Srouce\test\fileReadWrite\obj\Debug\fileReadWrite.pdb
